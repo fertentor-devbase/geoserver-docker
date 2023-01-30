@@ -14,7 +14,8 @@ Or if you want to start the container daemonized, use e.g.:
 docker run -d -p 80:8080 geoserver
 ```
 Postgis conection
-HOST 
+configure HOST replace localhost with
+
 ```shell
 host.docker.internal 
 ```
