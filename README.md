@@ -19,3 +19,8 @@ configure HOST replace localhost with
 ```shell
 host.docker.internal 
 ```
+
+[**Install WPS**](https://docs.geoserver.org/stable/en/user/services/wps/install.html#wps-install)
+
+[version 2.22.0](https://geoserver.org/release/2.22.0/)
+
