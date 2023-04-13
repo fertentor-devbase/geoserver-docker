@@ -24,3 +24,5 @@ host.docker.internal
 
 [version 2.22.0](https://geoserver.org/release/2.22.0/)
 
+[**COG mosaic with S3 Bucket**](https://docs.geoserver.org/2.22.x/en/user/community/cog/update.html)
+
