@@ -26,3 +26,5 @@ host.docker.internal
 
 [**COG mosaic with S3 Bucket**](https://docs.geoserver.org/2.22.x/en/user/community/cog/update.html)
 
+[**COG (Cloud Optimized GeoTIFF) Support**](https://docs.geoserver.org/latest/en/user/community/cog/cog.html)
+
