@@ -28,3 +28,5 @@ host.docker.internal
 
 [**COG (Cloud Optimized GeoTIFF) Support**](https://docs.geoserver.org/latest/en/user/community/cog/cog.html)
 
+[**ImageMosaic configuration**](https://docs.geoserver.org/2.22.x/en/user/data/raster/imagemosaic/configuration.html#index-and-configuration-file-creation
+
